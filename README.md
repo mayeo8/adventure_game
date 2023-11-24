@@ -1,10 +1,10 @@
-# adventure
+# adventure game
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+an adventure game that the outcome depends on the decision you make in the game.
 
 A few resources to get you started if this is your first Flutter project:
 
